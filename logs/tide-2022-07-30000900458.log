@@ -1,0 +1,55 @@
+[INFO ] 2022-07-30 00:09:07.518 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:09:07.523 [main] Logging - Clicking on Register Link on homepage
+[INFO ] 2022-07-30 00:09:07.819 [main] Logging - Clicking on Signup on Registration Page
+[INFO ] 2022-07-30 00:09:13.221 [main] Logging - Entered all the credentials from the excel file
+[INFO ] 2022-07-30 00:09:13.806 [main] Logging - Clicked on created account
+[WARN ] 2022-07-30 00:09:14.149 [main] Logging - Skipped due to google captcha
+[ERROR] 2022-07-30 00:09:14.426 [main] Logging - Taking the screenshot for the skipped test scenario
+[INFO ] 2022-07-30 00:09:21.322 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:09:21.323 [main] Logging - Clicking on Register Link on homepage
+[INFO ] 2022-07-30 00:09:21.600 [main] Logging - Clicking on Signup on Registration Page
+[INFO ] 2022-07-30 00:09:27.679 [main] Logging - Entered all the credentials from the excel file
+[INFO ] 2022-07-30 00:09:27.680 [main] Logging - Clicked on Login button
+[WARN ] 2022-07-30 00:09:27.946 [main] Logging - Skipped due to google captcha
+[ERROR] 2022-07-30 00:09:28.156 [main] Logging - Taking the screenshot for the skipped test scenario
+[INFO ] 2022-07-30 00:09:35.803 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:09:35.803 [main] Logging - Clicking on US-English on homepage to change language
+[INFO ] 2022-07-30 00:09:35.924 [main] Logging - Clicking on Canada french from the available langs in the popup
+[TRACE] 2022-07-30 00:09:38.177 [main] Logging - Success in changing to Canada French language
+[INFO ] 2022-07-30 00:09:44.681 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:09:44.681 [main] Logging - Clicking on Can't find the right stain
+[INFO ] 2022-07-30 00:09:45.107 [main] Logging - Entering Grease in the stain search box
+[INFO ] 2022-07-30 00:09:46.161 [main] Logging - Clicking on the article from the stain search results
+[TRACE] 2022-07-30 00:09:46.818 [main] Logging - Content related to Grease stain found in the article page
+[INFO ] 2022-07-30 00:09:53.935 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:09:53.936 [main] Logging - Clicking on the sticker banner for saving calcualtor page
+[INFO ] 2022-07-30 00:09:54.764 [main] Logging - Entered 10 in the number of washes
+[TRACE] 2022-07-30 00:09:55.667 [main] Logging - Accurate cost calculation
+[INFO ] 2022-07-30 00:10:02.767 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:10:02.767 [main] Logging - Clicking on ContactUs link on top of the page
+[TRACE] 2022-07-30 00:10:04.720 [main] Logging - Contact Optons iframe window is present
+[INFO ] 2022-07-30 00:10:12.272 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:10:12.272 [main] Logging - Entering text on the search box
+[INFO ] 2022-07-30 00:10:12.377 [main] Logging - Clicking on the search icon
+[TRACE] 2022-07-30 00:10:13.428 [main] Logging - pods contained in search results
+[INFO ] 2022-07-30 00:10:20.083 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:10:20.084 [main] Logging - Opening all the part company websites using control+click
+[INFO ] 2022-07-30 00:10:23.371 [main] Logging - P&GGoodEveryday | Earn Rewards & Gift Cards - Printable Coupons - Do Good with Loyalty Programpage VERIFIED NOW CLOSING IT
+[INFO ] 2022-07-30 00:10:25.264 [main] Logging - Dryer Sheets and Wrinkle Release Spraypage VERIFIED NOW CLOSING IT
+[INFO ] 2022-07-30 00:10:42.480 [main] Logging - Fabric Softeners, Dryer Sheets, Scent Beads & Laundry Tips | Downypage VERIFIED NOW CLOSING IT
+[INFO ] 2022-07-30 00:10:42.806 [main] Logging - Procter & Gamblepage VERIFIED NOW CLOSING IT
+[INFO ] 2022-07-30 00:11:05.574 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:11:08.582 [main] Logging - Clicking on Live chat option on top of homepage
+[INFO ] 2022-07-30 00:11:10.754 [main] Logging - Successfully clicked on Start Chat
+[INFO ] 2022-07-30 00:11:10.856 [main] Logging - Clicking on agreeing and continue
+[INFO ] 2022-07-30 00:11:16.032 [main] Logging - Entering first name
+[INFO ] 2022-07-30 00:11:16.130 [main] Logging - Entering last name
+[INFO ] 2022-07-30 00:11:16.271 [main] Logging - Entering email address
+[INFO ] 2022-07-30 00:11:16.432 [main] Logging - Clicking on Chat Button
+[INFO ] 2022-07-30 00:11:53.335 [main] Logging - Entering initial chat message
+[INFO ] 2022-07-30 00:11:54.336 [main] Logging - Sending the message typed in the chat box
+[INFO ] 2022-07-30 00:12:01.525 [main] Logging - Closing popup
+[INFO ] 2022-07-30 00:12:01.525 [main] Logging - Scrolling down to browse by need section
+[INFO ] 2022-07-30 00:12:02.269 [main] Logging - Clicked on browse by need section
+[INFO ] 2022-07-30 00:12:04.973 [main] Logging - Clicked on Freshness/Scent
+[TRACE] 2022-07-30 00:12:05.222 [main] Logging - Febreze 4in1 is present in the results

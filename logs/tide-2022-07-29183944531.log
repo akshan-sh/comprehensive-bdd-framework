@@ -1,0 +1,6 @@
+[INFO ] 2022-07-29 18:39:52.890 [main] Logging - Closing popup
+[INFO ] 2022-07-29 18:39:52.896 [main] Logging - Clicking on Register Link on homepage
+[INFO ] 2022-07-29 18:39:53.158 [main] Logging - Clicking on Signup on Registration Page
+[INFO ] 2022-07-29 18:39:58.551 [main] Logging - Entered all the credentials from the excel file
+[INFO ] 2022-07-29 18:39:59.008 [main] Logging - Clicked on created account
+[WARN ] 2022-07-29 18:39:59.080 [main] Logging - Skipped due to google captcha

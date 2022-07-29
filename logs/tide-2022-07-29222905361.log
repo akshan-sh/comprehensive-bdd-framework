@@ -1,0 +1,5 @@
+[INFO ] 2022-07-29 22:29:12.299 [main] Logging - Closing popup
+[INFO ] 2022-07-29 22:29:12.304 [main] Logging - Clicking on Can't find the right stain
+[INFO ] 2022-07-29 22:29:13.713 [main] Logging - Entering Grease in the stain search box
+[INFO ] 2022-07-29 22:29:14.308 [main] Logging - Clicking on the article from the stain search results
+[TRACE] 2022-07-29 22:29:15.083 [main] Logging - Content related to Grease stain found in the article page

@@ -1,0 +1,4 @@
+[INFO ] 2022-07-29 21:30:26.181 [main] Logging - Closing popup
+[INFO ] 2022-07-29 21:30:26.188 [main] Logging - Clicking on US-English on homepage to change language
+[INFO ] 2022-07-29 21:30:26.285 [main] Logging - Clicking on Canada french from the available langs in the popup
+[TRACE] 2022-07-29 21:30:28.597 [main] Logging - Success in changing to Canada French language

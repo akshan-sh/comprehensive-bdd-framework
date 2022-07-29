@@ -1,0 +1,4 @@
+[INFO ] 2022-07-29 23:29:03.697 [main] Logging - Closing popup
+[INFO ] 2022-07-29 23:29:06.703 [main] Logging - Clicking on Live chat option on top of homepage
+[WARN ] 2022-07-29 23:29:07.456 [main] Logging - Chat is closed right now, come between 10am to 6pm
+[ERROR] 2022-07-29 23:29:07.673 [main] Logging - Taking the screenshot for the skipped test scenario

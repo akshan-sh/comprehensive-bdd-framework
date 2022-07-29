@@ -1,0 +1,7 @@
+[INFO ] 2022-07-29 20:14:30.653 [main] Logging - Closing popup
+[INFO ] 2022-07-29 20:14:30.657 [main] Logging - Clicking on Register Link on homepage
+[INFO ] 2022-07-29 20:14:30.964 [main] Logging - Clicking on Signup on Registration Page
+[INFO ] 2022-07-29 20:14:37.300 [main] Logging - Entered all the credentials from the excel file
+[INFO ] 2022-07-29 20:14:37.301 [main] Logging - Clicked on Login button
+[WARN ] 2022-07-29 20:15:07.449 [main] Logging - Skipped due to google captcha
+[ERROR] 2022-07-29 20:15:07.795 [main] Logging - Taking the screenshot for the skipped test scenario

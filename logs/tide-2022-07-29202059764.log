@@ -1,0 +1,14 @@
+[INFO ] 2022-07-29 20:21:07.226 [main] Logging - Closing popup
+[INFO ] 2022-07-29 20:21:07.232 [main] Logging - Clicking on Register Link on homepage
+[INFO ] 2022-07-29 20:21:07.504 [main] Logging - Clicking on Signup on Registration Page
+[INFO ] 2022-07-29 20:21:12.821 [main] Logging - Entered all the credentials from the excel file
+[INFO ] 2022-07-29 20:21:13.389 [main] Logging - Clicked on created account
+[WARN ] 2022-07-29 20:21:43.526 [main] Logging - Skipped due to google captcha
+[ERROR] 2022-07-29 20:21:43.874 [main] Logging - Taking the screenshot for the skipped test scenario
+[INFO ] 2022-07-29 20:21:52.837 [main] Logging - Closing popup
+[INFO ] 2022-07-29 20:21:52.838 [main] Logging - Clicking on Register Link on homepage
+[INFO ] 2022-07-29 20:21:53.231 [main] Logging - Clicking on Signup on Registration Page
+[INFO ] 2022-07-29 20:22:00.313 [main] Logging - Entered all the credentials from the excel file
+[INFO ] 2022-07-29 20:22:00.314 [main] Logging - Clicked on Login button
+[WARN ] 2022-07-29 20:22:30.405 [main] Logging - Skipped due to google captcha
+[ERROR] 2022-07-29 20:22:30.662 [main] Logging - Taking the screenshot for the skipped test scenario

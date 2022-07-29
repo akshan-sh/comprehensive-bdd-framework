@@ -1,0 +1,4 @@
+[INFO ] 2022-07-29 22:53:59.823 [main] Logging - Closing popup
+[INFO ] 2022-07-29 22:53:59.828 [main] Logging - Entering text on the search box
+[INFO ] 2022-07-29 22:53:59.951 [main] Logging - Clicking on the search icon
+[TRACE] 2022-07-29 22:54:01.583 [main] Logging - pods contained in search results
