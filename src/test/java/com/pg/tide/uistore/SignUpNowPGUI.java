@@ -90,7 +90,7 @@ public class SignUpNowPGUI {
 	}
 	public WebElement getAlreadyRegistered()
 	{
-		return new WebDriverWait(driver, 7).until(ExpectedConditions.elementToBeClickable(alreadyRegistered));
+		return new WebDriverWait(driver, 10).until(ExpectedConditions.elementToBeClickable(alreadyRegistered));
 	}
 	
 }

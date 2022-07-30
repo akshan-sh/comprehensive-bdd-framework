@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/java/com/pg/tide/features",
 				glue = "com.pg.tide.stepdefinitions",
-				tags = "",
+				tags = "@now",
 				dryRun = false,
 				/*for pretty reporting*/
 				plugin = {"pretty", "html:target/report.html", 

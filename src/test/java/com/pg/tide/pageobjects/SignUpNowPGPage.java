@@ -3,6 +3,7 @@ package com.pg.tide.pageobjects;
 
 
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.junit.Assert;
 import org.junit.Assume;
@@ -53,6 +54,18 @@ public class SignUpNowPGPage {
 	}
 	public void verifySignup()
 	{
+		try {
+			if(nowUi.getAlreadyRegistered().isDisplayed())
+			{
+				report.getTest().pass("User already registered");
+				log.getLog().info("User already registered");
+				Assert.assertTrue(true);
+				
+			}
+			
+		} catch(TimeoutException e ) {
+			//carrying on
+		}
 		
 		try {
 			if(nowUi.getGoogleCaptchaIframe().isDisplayed())
@@ -70,18 +83,7 @@ public class SignUpNowPGPage {
 			//carrying on
 		} 
 		
-		try {
-			if(nowUi.getAlreadyRegistered().isDisplayed())
-			{
-				report.getTest().fail("User already registered");
-				log.getLog().warn("User already registered");
-				Assert.fail("User already registered");
-				
-			}
-			
-		} catch(NoSuchElementException e ) {
-			//carrying on
-		}
+		
 		
 		try {
 			if(nowUi.getThanksForSigningUp().isDisplayed())

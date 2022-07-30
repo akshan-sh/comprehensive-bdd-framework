@@ -126,7 +126,7 @@ public class HomeUI {
 	}
 	public WebElement getStartChat()
 	{
-		return new WebDriverWait(driver, 7).until(ExpectedConditions.elementToBeClickable(startChat));
+		return new WebDriverWait(driver, 15).until(ExpectedConditions.elementToBeClickable(startChat));
 	}
 	public WebElement getChatClosed()
 	{

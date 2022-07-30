@@ -209,9 +209,8 @@ public class HomePage {
 			report.getTest().skip(e.getMessage());
 			throw new AssumptionViolatedException("Chat is closed right now, come between 10am to 6pm");
 		}catch(TimeoutException e) {
-			report.getTest().fail("Button taking too much time to load");
-			report.getTest().info(e.getMessage());
-			Assert.fail("Button taking too much time to load");
+			report.getTest().info("Chat is closed right now or Button taking too much time to load");
+			Assert.fail("Chat is closed right nowButton taking too much time to load");
 		}
 		catch(Exception e) {
 			report.getTest().fail("Something unexpected happened");
